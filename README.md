@@ -316,9 +316,9 @@ The reference implementation reported the following results:
 
 | Model          | Configuration                                | Micro F1 Score |
 | -------------- | -------------------------------------------- | -------------: |
-| KNN            | `n_neighbors = 7`                            |         0.6488 |
-| Neural Network | Best reported run                            |         0.6502 |
-| Random Forest  | `n_estimators = 100`, `min_samples_leaf = 1` |         0.7150 |
+| KNN            | `n_neighbors = 7`                            |         0.6456 |
+| Neural Network | Best reported run                            |         0.6639 |
+| Random Forest  | `n_estimators = 100`, `min_samples_leaf = 1` |         0.7214 |
 
 ### Best Performing Model
 
